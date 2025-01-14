@@ -48,9 +48,9 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmi-keerthi&show_icons=true&theme=highcontrast)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-keerthi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-keerthi&layout=compact&theme=highcontrast)
 
-![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshmi-keerthi&theme=radical)
+![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshmi-keerthi&theme=highcontrast)
 
 ---
 ## 💼 Work Experience
