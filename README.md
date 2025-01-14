@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 years of professional expertise, including 4 years in AI/ML. I’m passionate about leveraging data-driven insights and cutting-edge machine learning techniques to solve real-world business problems.
 
+![Profile Views](https://komarev.com/ghpvc/?username=lakshmi-keerthi&color=brightgreen)
 ---
 
 ## 🌟 Academic Background
@@ -43,8 +44,8 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmi-keerthi&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-keerthi&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-keerthi&theme=radical)](https://git.io/streak-stats)
 
 [![CVD](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=CVD&theme=radical)](https://github.com/lakshmi-keerthi/CVD)
 [![Animal Shelter SQL](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Animal-Shelter-SQL&theme=radical)](https://github.com/lakshmi-keerthi/Animal-Shelter-SQL)
@@ -57,10 +58,7 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 
 [![Image Processing QC](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Image_Processing_QC&theme=radical)](https://github.com/lakshmi-keerthi/Image_Processing_QC)
 
-![Profile Views](https://komarev.com/ghpvc/?username=lakshmi-keerthi&color=brightgreen)
 ![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshmi-keerthi&theme=radical)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lakshmi-keerthi&theme=radical)](https://wakatime.com/)
-
 
 ---
 ## 💼 Work Experience
