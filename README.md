@@ -44,8 +44,19 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmi-keerthi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-keerthi&layout=compact&theme=radical)
-![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=repo-name&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-keerthi&theme=radical)](https://git.io/streak-stats)
+
+[![CVD](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=CVD&theme=radical)](https://github.com/lakshmi-keerthi/CVD)
+[![Animal Shelter SQL](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Animal-Shelter-SQL&theme=radical)](https://github.com/lakshmi-keerthi/Animal-Shelter-SQL)
+
+[![Bird Species Classification](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Bird_Species_Classification&theme=radical)](https://github.com/lakshmi-keerthi/Bird_Species_Classification)
+[![Movie Genre Classification](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Movie_Genre_Classification&theme=radical)](https://github.com/lakshmi-keerthi/Movie_Genre_Classification)
+
+[![DataViz](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=DataViz&theme=radical)](https://github.com/lakshmi-keerthi/DataViz)
+[![Pneumonia Detection](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Pneumonia-Detection&theme=radical)](https://github.com/lakshmi-keerthi/Pneumonia-Detection)
+
+[![Image Processing QC](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Image_Processing_QC&theme=radical)](https://github.com/lakshmi-keerthi/Image_Processing_QC)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshmi-keerthi&color=brightgreen)
 ![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshmi-keerthi&theme=radical)
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lakshmi-keerthi&theme=radical)](https://wakatime.com/)
