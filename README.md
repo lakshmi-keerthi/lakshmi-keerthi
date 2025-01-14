@@ -24,39 +24,31 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 ## 🛠️ Skills
 
 ### Programming & Tools
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=matlab)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-lightblue?style=flat&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=postgresql&logoColor=white)
-![HiveQL](https://img.shields.io/badge/-HiveQL-orange?style=flat)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f3f3f3?style=flat-square&logo=scikit-learn&logoColor=blue)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+![HiveQL](https://img.shields.io/badge/-HiveQL-orange?style=flat-square&logo=apache-hive&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-white?style=flat-square&logo=opencv&logoColor=blue)
+![NLTK](https://img.shields.io/badge/-NLTK-green?style=flat-square&logo=nltk&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=power-bi&logoColor=black)
 
 ### Key Areas of Expertise
 - Machine Learning (Supervised/Unsupervised)  
-- Neural Networks (Deep Learning, CNNs, GANs)  
+- Neural Networks (Deep Learning, CNNs, GANs)
 - Natural Language Processing (NLP)  
 - Data Analytics & Visualization (Tableau, Power BI)  
-- MLOps and Automation  
+- MLOps
 
 ---
 
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmi-keerthi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmi-keerthi&show_icons=true&theme=highcontrast)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-keerthi&layout=compact&theme=radical)
-
-[![CVD](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=CVD&theme=radical)](https://github.com/lakshmi-keerthi/CVD)
-[![Animal Shelter SQL](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Animal-Shelter-SQL&theme=radical)](https://github.com/lakshmi-keerthi/Animal-Shelter-SQL)
-
-[![Bird Species Classification](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Bird_Species_Classification&theme=radical)](https://github.com/lakshmi-keerthi/Bird_Species_Classification)
-[![Movie Genre Classification](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Movie_Genre_Classification&theme=radical)](https://github.com/lakshmi-keerthi/Movie_Genre_Classification)
-
-[![DataViz](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=DataViz&theme=radical)](https://github.com/lakshmi-keerthi/DataViz)
-[![Pneumonia Detection](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Pneumonia-Detection&theme=radical)](https://github.com/lakshmi-keerthi/Pneumonia-Detection)
-
-[![Image Processing QC](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=Image_Processing_QC&theme=radical)](https://github.com/lakshmi-keerthi/Image_Processing_QC)
 
 ![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshmi-keerthi&theme=radical)
 
