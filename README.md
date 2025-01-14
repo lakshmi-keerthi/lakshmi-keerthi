@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lakshmi Keerthi Gopireddy!
+# 👋 Hello, I'm Lakshmi Keerthi!
 
 Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 years of professional expertise, including 4 years in AI/ML. I’m passionate about leveraging data-driven insights and cutting-edge machine learning techniques to solve real-world business problems.
 
@@ -16,10 +16,7 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lakshmi-keerthi)  
-[![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/lakshmi-keerthi)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://lakshmi-keerthi.github.io/my_portfolio/)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:keerthi16101996@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lakshmi-keerthi)  [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/lakshmi-keerthi)  [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white)](https://lakshmi-keerthi.github.io/my_portfolio/)  [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:keerthi16101996@gmail.com)  
 
 ---
 
@@ -42,6 +39,19 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 
 ---
 
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmi-keerthi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-keerthi&layout=compact&theme=radical)
+![Repositories](https://github-readme-stats.vercel.app/api/pin/?username=lakshmi-keerthi&repo=repo-name&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-keerthi&theme=radical)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=lakshmi-keerthi&color=brightgreen)
+![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshmi-keerthi&theme=radical)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lakshmi-keerthi&theme=radical)](https://wakatime.com/)
+
+
+---
 ## 💼 Work Experience
 
 ### **Wipro Technologies** | Data Scientist  
@@ -57,27 +67,4 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 
 ---
 
-## 🔬 Key Projects
 
-- **Leveraging Deep Learning Models for Bird Species Classification**  
-  Utilized CNNs, ResNet, and Vision Transformer (ViT) to classify bird species using augmented image data.  
-
-- **Generating Synthetic Faces using GANs**  
-  Built a generative model capable of producing high-quality synthetic faces.  
-
-- **Pneumonia Detection with Neural Networks**  
-  Created a CNN-based model deployed on a local webpage using Streamlit to detect pneumonia from X-ray images.  
-
----
-
-## 🏆 Achievements
-
-- 🎖 Recognized as the **Outstanding Contributor** by Huawei in 2022.  
-- 🏆 Awarded **Champion Auditor - Gold** at Amazon for exemplary performance.  
-- 📜 Completed **Advanced Certification in AI/ML** from IIIT Hyderabad.  
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmi-keerthi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-keerthi&layout=compact&theme=radical)
