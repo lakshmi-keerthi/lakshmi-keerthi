@@ -37,10 +37,10 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 
 ### Key Areas of Expertise
 - Machine Learning (Supervised/Unsupervised)  
-- Neural Networks (Deep Learning, CNNs, GANs)
+- Neural Networks (Deep Learning, CNNs, DCN)
+- GenAI (GANs, LLMs, Responsible AI)
 - Natural Language Processing (NLP)  
 - Data Analytics & Visualization (Tableau, Power BI)  
-- MLOps
 
 ---
 
