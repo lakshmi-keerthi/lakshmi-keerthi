@@ -59,9 +59,9 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 *Aug 2021 - Dec 2022*  
 - Achieved AUC of 0.863 for predicting ad click-through probabilities using advanced deep learning models.  
 - Automated KPI capture from logs with Python, enhancing reporting efficiency.  
-- Worked on feature selection and hyperparameter tuning to improve model performance for Huawei Ads Platform.
+- Worked on feature selection and hyperparameter tuning to improve model performance for the Huawei Ads Platform.
 
-### **Amazon** | Data Quality Specialist  
+### **Amazon** | Data Analyst  
 *Aug 2018 - May 2021*  
 - Streamlined processes for AI/ML models, increasing root cause identification accuracy by 30%.  
 - Built neural network-based visual inspection models for robotic systems, improving operational efficiency.  
