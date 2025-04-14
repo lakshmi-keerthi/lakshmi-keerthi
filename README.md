@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lakshmi Keerthi!
 
-Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 years of professional expertise, including 4 years in AI/ML. I’m passionate about leveraging data-driven insights and cutting-edge machine learning techniques to solve real-world business problems.
+Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 years of professional expertise. I’m passionate about leveraging data-driven insights and cutting-edge machine learning techniques to solve real-world business problems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshmi-keerthi&color=brightgreen)
 ---
@@ -51,21 +51,5 @@ Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 year
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-keerthi&layout=compact&theme=highcontrast)
 
 ![Fork Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshmi-keerthi&theme=highcontrast)
-
----
-## 💼 Work Experience
-
-### **Wipro Technologies** | Data Scientist  
-*Aug 2021 - Dec 2022*  
-- Achieved AUC of 0.863 for predicting ad click-through probabilities using advanced deep learning models.  
-- Automated KPI capture from logs with Python, enhancing reporting efficiency.  
-- Worked on feature selection and hyperparameter tuning to improve model performance for the Huawei Ads Platform.
-
-### **Amazon** | Data Analyst  
-*Aug 2018 - May 2021*  
-- Streamlined processes for AI/ML models, increasing root cause identification accuracy by 30%.  
-- Built neural network-based visual inspection models for robotic systems, improving operational efficiency.  
-
----
 
 
