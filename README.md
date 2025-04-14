@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lakshmi Keerthi!
 
-Welcome to my GitHub profile! I am an experienced **Data Scientist** with 6 years of professional expertise. I’m passionate about leveraging data-driven insights and cutting-edge machine learning techniques to solve real-world business problems.
+Welcome to my GitHub profile! I am an experienced **Data Analyst** with 6 years of professional expertise. I’m passionate about leveraging data-driven insights and cutting-edge machine learning techniques to solve real-world business problems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshmi-keerthi&color=brightgreen)
 ---
