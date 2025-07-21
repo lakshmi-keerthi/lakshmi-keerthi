@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lakshmi Keerthi!
 
-Welcome to my GitHub profile! I am an experienced **Data Analyst** with 6 years of professional expertise. I’m passionate about leveraging data-driven insights and cutting-edge machine learning techniques to solve real-world business problems.
+Welcome to my GitHub profile! I am an experienced **Data Analyst** with 5 years of professional expertise. I’m passionate about leveraging data-driven insights and cutting-edge machine learning techniques to solve real-world business problems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lakshmi-keerthi&color=brightgreen)
 ---
@@ -25,15 +25,17 @@ Welcome to my GitHub profile! I am an experienced **Data Analyst** with 6 years 
 
 ### Programming & Tools
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f3f3f3?style=flat-square&logo=scikit-learn&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![HiveQL](https://img.shields.io/badge/-HiveQL-orange?style=flat-square&logo=apache-hive&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f3f3f3?style=flat-square&logo=scikit-learn&logoColor=blue)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-white?style=flat-square&logo=opencv&logoColor=blue)
 ![NLTK](https://img.shields.io/badge/-NLTK-green?style=flat-square&logo=nltk&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=power-bi&logoColor=black)
+
+
 
 ### Key Areas of Expertise
 - Machine Learning (Supervised/Unsupervised)  
